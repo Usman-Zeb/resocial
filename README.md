@@ -2,15 +2,34 @@
 
 ReSocial is an app that allows users to chat with one another within a range. The app also recommends users based on their interestes. Flutter is used for frontend with Firebase support at backend. A REST API serves ML model that is used in generating recommendations
 
-## Getting Started
+Main Page:
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/58597745/112755620-dc90b880-8ffa-11eb-8544-f8b97866d5b2.jpg" width="200" height="400">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Sign-Up Page:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/58597745/112755622-de5a7c00-8ffa-11eb-8057-7ca69c7fa4f8.jpg" width="200" height="400">
+
+
+Sign-In Page:
+
+<img src="https://user-images.githubusercontent.com/58597745/112755621-ddc1e580-8ffa-11eb-9675-bef5f3f79cad.jpg" width="200" height="400">
+
+
+Conversations Page:
+
+<img src="https://user-images.githubusercontent.com/58597745/112755617-d8fd3180-8ffa-11eb-9134-ec1dc1cc8eb0.jpg" width="200" height="400">
+
+
+Explore Page:
+
+<img src="https://user-images.githubusercontent.com/58597745/112755618-da2e5e80-8ffa-11eb-93cd-342db3dd7261.jpg" width="200" height="400">
+
+
+Inbox Page:
+
+<img src="https://user-images.githubusercontent.com/58597745/112755696-4ad57b00-8ffb-11eb-8582-62536f7bb9c9.jpg" width="200" height="400">
+
+
+
